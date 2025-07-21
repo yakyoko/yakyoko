@@ -1,4 +1,13 @@
-## Hi there 👋
+### About me
+Currently a university student.
+
+### Interests
+- Golang
+- 🐧 Linux
+
+### Contact
+📫 [oleksandr_andriienko0709@tntu.edu.ua](mailto:oleksandr_andriienko0709@tntu.edu.ua)
+
 
 <!--
 **yakyoko/yakyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
