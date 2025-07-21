@@ -4,6 +4,7 @@ Currently a university student.
 ### Interests
 - Golang
 - 🐧 Linux
+- SQL & Databases
 
 ### Contact
 📫 [oleksandr_andriienko0709@tntu.edu.ua](mailto:oleksandr_andriienko0709@tntu.edu.ua)
